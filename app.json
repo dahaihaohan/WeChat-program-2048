@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/Initialization/Initialization",
+    "pages/2048/2048"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#ADD8E6",
+    "backgroundTextStyle":"dark",
+    "enablePullDownRefresh": false,
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "2048"
+  }
+}
